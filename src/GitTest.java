@@ -12,6 +12,7 @@ public class GitTest {
 		System.out.println("Master Branch2");
 		System.out.println("Master final");
 		System.out.println("hotfix2 final");
+		System.out.println("github 접속");
 	}
 
 }
