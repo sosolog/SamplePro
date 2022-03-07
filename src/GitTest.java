@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("Master Branch");
 
 		System.out.println("hotfix Branch");
+		System.out.println("hotfix Branch2");
 	}
 
 }
