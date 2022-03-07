@@ -14,6 +14,9 @@ public class GitTest {
 		System.out.println("hotfix2 final");
 		System.out.println("github 접속");
 		System.out.println("github 에서 수정");
+
+		
+		System.out.println("hotfix remote push");
 	}
 
 }
